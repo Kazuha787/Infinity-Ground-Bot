@@ -25,7 +25,7 @@ This bot automates the process of creating accounts and using referral codes for
 2. Install dependencies and setup accounts
 
    ```sh
-   npm install axios ethers fs node-cron
+   npm install fs axios
    ```
 
  3.Configure the bot config`
