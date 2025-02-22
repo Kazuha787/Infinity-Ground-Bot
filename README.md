@@ -1,6 +1,7 @@
 # Infinity Ground
 
 An automated bot for Infinity Ground accounts with proxy support.
+Auto Checkin & Auto some Task Infinity Ground
 
 ## 📢 Join Our Community
 
